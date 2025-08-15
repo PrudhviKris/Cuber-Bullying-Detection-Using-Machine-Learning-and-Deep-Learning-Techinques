@@ -1,0 +1,2 @@
+t = ("Banana", "Apple", "Cherry")
+t.len()

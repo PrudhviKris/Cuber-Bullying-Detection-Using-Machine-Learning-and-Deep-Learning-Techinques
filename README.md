@@ -1,2 +1,1 @@
-# Cuber-Bullying-Detection-Using-Machine-Learning-and-Deep-Learning-Techinques
-This project aims to automatically detect instances of cyberbullying in online social media platforms using a combination of Machine Learning (ML) and Deep Learning (DL) methods. With the exponential rise of digital communication, cyberbullying has become a serious concern, affecting individuals’ mental health and social well-being. 
+# Cyberbullying Detection Using Python & Machine Learning
